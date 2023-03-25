@@ -4,9 +4,27 @@ This is my personal Next.js+Typescript+Tailwind boilerplate. Feel free to use it
 
 Please visit my [Linkedin](https://www.linkedin.com/in/arenadaiana/) to say thanks :) remember it helps me a lot ♥
 
+## Before Installation - System Requirements
+
+Make sure your development environment meets the following requirements:
+
+ - Node.js 16.8 or later.
+ - MacOS, Windows (including WSL), and Linux are supported.
+
+Note: While the pages directory requires Node.js v14 or later, the app directory requires Node v16.8.0 or later.
+
 ## Getting Started
 
-First, run the development server:
+First, install all the  dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+
+Then, run the development server:
 
 ```bash
 npm run dev
