@@ -1,5 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/nmxJmbR.png" width="400"></p>
 This is my personal Next.js+Typescript+Tailwind boilerplate. Feel free to use it if you like it!
+
 Please visit my [Linkedin](https://www.linkedin.com/in/arenadaiana/) to say thanks :) remember it helps me a lot ♥
 
 ## Getting Started
