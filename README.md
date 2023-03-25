@@ -26,6 +26,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
+###NextJS
+
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
@@ -33,11 +35,21 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/)
 
+###Tailwind
+
+To learn about tailwind you can checkout [Tailwind documentation](https://tailwindcss.com/docs/installation).
+
+###Typescript
+
+If you need to learn more about typescript don't forget to [visit their documentation](https://www.typescriptlang.org/docs/)
+
+
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out  [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-To learn about tailwind you can checkout [Tailwind documentation](https://tailwindcss.com/docs/installation).
+
 
