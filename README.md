@@ -11,7 +11,7 @@ Make sure your development environment meets the following requirements:
  - Node.js 16.8 or later.
  - MacOS, Windows (including WSL), and Linux are supported.
 
-Note: While the pages directory requires Node.js v14 or later, the app directory requires Node v16.8.0 or later.
+**_Note:_** While the pages directory requires Node.js v14 or later, the app directory requires Node v16.8.0 or later.
 
 ## Getting Started
 
